@@ -1,0 +1,17 @@
+{
+	"geode": "5.6.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"version": "v1.4.0",
+	"id": "abso.fishtank-demonlist",
+	"name": "The Fish Tank Demon List & Demon Ladder",
+	"developer": "Abso",
+	"description": "Browse The Fish Tank Demon List in-game, with a player leaderboard and Geometry Dash Demon Ladder (gdladder.com) tiers. Auto-updates when the list changes.",
+	"resources": {
+		"sprites": ["resources/*.png"]
+	}
+}
